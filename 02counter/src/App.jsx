@@ -15,6 +15,11 @@ function App() {
     // counter = counter + 1
     // assigment  0 to 20 range
     setCounter(counter + 1)
+    // interview question tell the out put 
+    setCounter(counter + 1)
+    setCounter(counter + 1)
+    setCounter(counter + 1)
+    setCounter(counter + 1)
   
 }
 

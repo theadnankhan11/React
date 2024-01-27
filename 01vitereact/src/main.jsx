@@ -23,7 +23,7 @@ function MyApp(){
     const anotherElement = (
         <a href="https://google.com" target='_blank'>Visit google</a>
     )
-
+    // react method to create element 
     const ReactElement = React.createElement(
         "a",
         {href:"https://google.com" ,target : "_blank"},
