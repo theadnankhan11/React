@@ -9,28 +9,28 @@ function App() {
 
   // let counter = 15 
 
-  
+
   const addValue = () => {
     // console.log("clicked", counter);
     // counter = counter + 1
     // assigment  0 to 20 range
     setCounter(counter + 1)
     // interview question tell the out put 
-    setCounter(counter + 1)
-    setCounter(counter + 1)
-    setCounter(counter + 1)
-    setCounter(counter + 1)
-  
-}
+    // setCounter(counter + 1)
+    // setCounter(counter + 1)
+    // setCounter(counter + 1)
+    // setCounter(counter + 1)
+
+  }
 
 
-const removeValue = () => {
-  // console.log("clicked", counter);
-  // counter = counter - 1
+  const removeValue = () => {
+    // console.log("clicked", counter);
+    // counter = counter - 1
     setCounter(counter - 1)
-  
-  
-}
+
+
+  }
   return (
     <>
       <h1>Chai aur react</h1>
